@@ -7,7 +7,6 @@
 * [Technologie Użyte](#technologie-użyte)
 * [Funkcjonalności](#funkcjonalności)
 * [Zrzuty Ekranu](#zrzuty-ekranu)
-* [Jak Korzystać](#jak-korzystać)
 * [Status Projektu](#status-projektu)
 * [Plan Rozwoju](#plan-rozwoju)
 * [Twórcy](#twórcy)
@@ -31,28 +30,21 @@
 ## Zrzuty Ekranu
 
 **Strona główna**
-![Strona główna](screenshots/1.PNG)
+![Strona główna](screenshots/main-page.PNG)
 
 **Logowanie**
-![Logowanie](screenshots/2.PNG)
+![Logowanie](screenshots/login-page.PNG)
 
-**Lista Wycieczek**
-![Lista Wycieczek](screenshots/3.PNG)
+**Produkty**
+![Lista Wycieczek](screenshots/products-page.PNG)
 
-**Dane Wycieczki**
-![Dane Wycieczki](screenshots/travel-description.PNG)
+**Strona Admina**
+![Dane Wycieczki](screenshots/admin-page.PNG)
 
-**Koszyk Produktów**
-![Koszyk Produktów](screenshots/travel-purchase.PNG)
+**Edycja Produktów**
+![Koszyk Produktów](screenshots/productediting-page.PNG)
 
-**Lista Przewodników**
-![Lista Przewodników](screenshots/guide-list.PNG)
 
-**Edycja Ogłoszenia Wycieczki**
-![Edycja Ogłoszenia Wycieczki](screenshots/travel-edit.PNG)
-
-**Edycja Danych Przewodnika**
-![Edycja Danych Przewodnika](screenshots/guide-edit.PNG)
  
 
  
